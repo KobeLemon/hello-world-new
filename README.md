@@ -6,7 +6,7 @@ This program is a demo where the program writes "Hello World!" to the console.
 
 I created this program because I want to start my software development journey off with a classic!
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=-s2TUZDD0G0)
 
 ## Development Environment
 
