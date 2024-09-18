@@ -1,0 +1,56 @@
+C:\Users\kobe4\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\kobe4\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\kobe4\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\kobe4\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\kobe4\source\repos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\kobe4\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kobe4\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\kobe4\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\kobe4\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kobe4\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\kobe4\source\repos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\kobe4\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\kobe4\source\repos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\kobe4\source\repos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\kobe4\source\repos\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\kobe4\source\repos\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\kobe4\source\repos\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\kobe4\source\repos\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\kobe4\source\repos\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Users\kobe4\source\repos\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kobe4\source\repos\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\kobe4\source\repos\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Users\kobe4\source\repos\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\kobe4\source\repos\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Users\kobe4\source\repos\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Users\kobe4\source\repos\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\kobe4\source\repos\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\kobe4\source\repos\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\bin\Debug\net8.0\hello-world-new.exe
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\bin\Debug\net8.0\hello-world-new.deps.json
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\bin\Debug\net8.0\hello-world-new.runtimeconfig.json
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\bin\Debug\net8.0\hello-world-new.dll
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\bin\Debug\net8.0\hello-world-new.pdb
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\obj\Debug\net8.0\hello-world-new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\obj\Debug\net8.0\hello-world-new.AssemblyInfoInputs.cache
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\obj\Debug\net8.0\hello-world-new.AssemblyInfo.cs
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\obj\Debug\net8.0\hello-world-new.csproj.CoreCompileInputs.cache
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\obj\Debug\net8.0\hello-world-new.dll
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\obj\Debug\net8.0\refint\hello-world-new.dll
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\obj\Debug\net8.0\hello-world-new.pdb
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\obj\Debug\net8.0\hello-world-new.genruntimeconfig.cache
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\hello-world-new\obj\Debug\net8.0\ref\hello-world-new.dll
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\bin\Debug\net8.0\hello-world-new.exe
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\bin\Debug\net8.0\hello-world-new.deps.json
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\bin\Debug\net8.0\hello-world-new.runtimeconfig.json
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\bin\Debug\net8.0\hello-world-new.dll
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\bin\Debug\net8.0\hello-world-new.pdb
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\obj\Debug\net8.0\hello-world-new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\obj\Debug\net8.0\hello-world-new.AssemblyInfoInputs.cache
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\obj\Debug\net8.0\hello-world-new.AssemblyInfo.cs
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\obj\Debug\net8.0\hello-world-new.csproj.CoreCompileInputs.cache
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\obj\Debug\net8.0\hello-world-new.dll
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\obj\Debug\net8.0\refint\hello-world-new.dll
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\obj\Debug\net8.0\hello-world-new.pdb
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\obj\Debug\net8.0\hello-world-new.genruntimeconfig.cache
+C:\Users\kobe4\OneDrive\Desktop\School\2024 Classes\3-Sept-Dec Fall Semester\CSE 310 Applied Technology\Git Repositories\hello-world-new\obj\Debug\net8.0\ref\hello-world-new.dll
